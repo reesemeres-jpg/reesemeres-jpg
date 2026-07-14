@@ -2,7 +2,7 @@
 
 Registered Nurse with a growing focus on healthcare AI evaluation, benchmark design, and trustworthy clinical reasoning.
 
-## Current flagship projects
+## Current Flagship Projects
 
 🏥 HORB
 Healthcare Operational Reasoning Benchmark
@@ -37,6 +37,8 @@ Evaluates whether AI remains within the limits of what the available evidence ca
 
 ---
 
+## Currently developing original healthcare AI benchmark suites focused on operational reasoning, evidence integrity, and judgment under uncertainty.
+
 ## Connect
 
 LinkedIn:
@@ -44,5 +46,3 @@ https://www.linkedin.com/in/meredith-r-761723359
 
 GitHub:
 https://github.com/reesemeres-jpg
-
-## Currently developing original healthcare AI benchmark suites focused on operational reasoning, evidence integrity, and judgment under uncertainty.
