@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi! I'm Meredith Reese, RN 👋
 
-<!--
-**reesemeres-jpg/reesemeres-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Registered Nurse with a growing focus on healthcare AI evaluation, benchmark design, and trustworthy clinical reasoning.
 
-Here are some ideas to get you started:
+## Current flagship projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏥 HORB
+Healthcare Operational Reasoning Benchmark
+
+Evaluates operational reasoning across realistic healthcare workflows.
+
+---
+
+🔍 EIED
+Evidence Integrity & Eligibility Determination
+
+Evaluates whether AI conclusions are actually supported by available evidence.
+
+---
+
+⚖️ UCM
+Uncertainty & Confidence Management
+
+Evaluates whether AI remains within the limits of what the available evidence can justify.
+
+---
+
+## Areas of Interest
+
+- Healthcare AI
+- Clinical Reasoning
+- Benchmark Design
+- AI Safety
+- LLM Evaluation
+- Clinical Documentation
+- Human-AI Collaboration
+
+---
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/meredith-r-761723359
+
+GitHub:
+https://github.com/reesemeres-jpg
+
+## Currently developing original healthcare AI benchmark suites focused on operational reasoning, evidence integrity, and judgment under uncertainty.
